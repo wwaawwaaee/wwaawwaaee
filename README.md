@@ -9,7 +9,8 @@
 **wwaawwaaee/wwaawwaaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+i am a 18-year-old student.
+i love math and LLM .i think i can work on to bring breaks to these fields.
 - 🔭 I’m currently working on LLM and NLP
 - 🌱 I’m currently learning math and Transformer
 - ⚡ Fun fact: i love the space to show myself
