@@ -6,7 +6,6 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wwaawwaaee&left_color=green&right_color=red)
-**wwaawwaaee/wwaawwaaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 i am a 18-year-old student.
 i love math and LLM .i think i can work on to bring breaks to these fields.
