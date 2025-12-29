@@ -4,8 +4,6 @@
 </h1> 
 
 <div align="center">
-
-# About me
 i am a 18-year-old student.
 
 i love math and LLM .
@@ -13,22 +11,20 @@ i love math and LLM .
 i think i can work on to bring breaks to these fields.
 
 i am a learner,builder,explorer,and a dreamer.
-
 ---
-
-# GitHub Profile Trophy 
-
+### GitHub Profile Trophy 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
-# How to touch me
+### How to touch me
 - ✉️ Email: *1991159841@qq.com*
 - 🌐 Blog: *sky.axono.org*
 - Wechat: *zzy1991159841*
-## and i'm also on
+
+### and i'm also on
 <!-- B站 --> 
 <a href="https://space.bilibili.com/1612645637?spm_id_from=333.1007.0.0"> 
   <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /> 
@@ -38,7 +34,7 @@ i am a learner,builder,explorer,and a dreamer.
   <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" /> 
 </a>
 
-# visitor statistics 
+### visitor statistics 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=wwaawwaaee" />
 
 </div>
