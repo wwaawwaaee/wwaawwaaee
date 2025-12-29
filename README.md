@@ -30,7 +30,7 @@ i am a learner,builder,explorer,and a dreamer.
   <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /> 
 </a>
 <!-- Steam --> 
-<a href="https://steamcommunity.com/wwaawwaaee/"> 
+<a href="[https://steamcommunity.com/wwaawwaaee/](https://steamcommunity.com/profiles/76561199789193925/)"> 
   <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" /> 
 </a>
 
