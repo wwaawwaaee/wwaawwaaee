@@ -10,7 +10,7 @@ i love math and LLM .
 
 i think i can work on to bring breaks to these fields.
 
-i am a learner,builder,explorer,and a dreamer.
+i am a dreamer.
 ---
 ### GitHub Profile Trophy 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
