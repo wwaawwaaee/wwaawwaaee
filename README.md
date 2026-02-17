@@ -21,7 +21,7 @@ i am a dreamer.
 
 ### How to touch me
 - ✉️ Email: *subeichuanwwaawwaaee@gmail.com* & *1991159841@qq.com*(Welcome interruption)
-- 🌐 Blog: *sky.axono.org*
+- 🌐 Blog: *https://sky.axono.org*
 - Wechat: *zzy1991159841*
 
 ### and i'm also on
