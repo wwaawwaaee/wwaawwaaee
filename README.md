@@ -6,7 +6,7 @@
 <div align="center">
 i am a 18-year-old student.
 
-i love math and LLM .
+i love math and neural network.
 
 i think i can work on to bring breaks to these fields.
 
