@@ -20,9 +20,8 @@ i am a dreamer.
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 ### How to touch me
-- ✉️ Email: *subeichuanwwaawwaaee@gmail.com*(Welcome interruption)
-- 🌐 Blog: *https://sky.axono.org*
-- Wechat: *zzy1991159841*
+- ✉️ Email: *zheyu070821@gmail.com*(Welcome interruption)
+- 🌐 Blog && Publication: *https://sky.axono.org*
 
 ### and i'm also on
 <!-- B站 --> 
