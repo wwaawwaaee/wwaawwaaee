@@ -5,25 +5,15 @@
 
 <div align="center">
 i am a 18-year-old student.
-
+  
 i love math and neural network.
 
 i think i can work on to bring breaks to these fields.
 
 i am a dreamer.
----
-### GitHub Profile Trophy 
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
-### How to touch me
-- ✉️ Email: *zheyu070821@gmail.com*(Welcome interruption)
-- 🌐 Blog && Publication: *https://sky.axono.org*
-
-### and i'm also on
+ ✉️ Email: *zheyu070821@gmail.com*
+ 🌐 Blog && Publication: *https://sky.axono.org*
 <!-- B站 --> 
 <a href="https://space.bilibili.com/1612645637?spm_id_from=333.1007.0.0"> 
   <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /> 
@@ -35,5 +25,4 @@ i am a dreamer.
 
 ### visitor statistics 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=wwaawwaaee" />
-
 </div>
