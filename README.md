@@ -11,8 +11,6 @@ I love math and deeplearning theory.
 I want to bring a breakthrough to this field.
 
 
- ✉️ Email: *zheyu070821@gmail.com*
- 🌐 Blog && Publication: *https://sky.axono.org*
 <!-- B站 --> 
 <a href="https://space.bilibili.com/1612645637?spm_id_from=333.1007.0.0"> 
   <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /> 
