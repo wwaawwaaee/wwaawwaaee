@@ -1,6 +1,6 @@
 <!-- 个人主页标题 --> 
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+SkyWalker!;Welcome+to+my+GitHub+Profile!;Learning+Coding+%26+Building+Projects!" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+SkyWalker!;One+day+you+will+leave+this+world+behind;SO+live+a+life+you+will+remember." /> 
 </h1> 
 
 <div align="center">
