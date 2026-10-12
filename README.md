@@ -4,13 +4,12 @@
 </h1> 
 
 <div align="center">
-i am a 19-year-old student.
+I am a 19-year-old student.
   
-i love math and neural network.
+I love math and deeplearning theory.
 
-i think i can work on to bring breaks to these fields.
+I want to bring a breakthrough to this field.
 
-i am a dreamer.
 
  ✉️ Email: *zheyu070821@gmail.com*
  🌐 Blog && Publication: *https://sky.axono.org*
