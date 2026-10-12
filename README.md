@@ -1,6 +1,6 @@
 <!-- 个人主页标题 --> 
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hey%2C+SkyWalker!;One+day+you+will+leave+this+world+behind;SO+live+a+life+you+will+remember." /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=One+day+you+will+leave+this+world+behind;SO+live+a+life+you+will+remember." /> 
 </h1> 
 
 <div align="center">
